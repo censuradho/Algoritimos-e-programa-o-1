@@ -1,0 +1,23 @@
+{
+    "cidades": [
+        {
+            "nome": "PORTO ALEGRE",
+            "estado": "RIO GRANDE DO SUL",
+            "casos": 0
+        }
+    ],
+    "estados": [
+        {
+            "nome": "RIO GRANDE DO SUL",
+            "uf": "RS",
+            "pais": "BRASIL",
+            "casos": 0
+        },
+        {
+            "nome": "SANTA CATARINA",
+            "uf": "SC",
+            "pais": "BRASIL",
+            "casos": 0
+        }
+    ]
+}
